@@ -1,0 +1,7 @@
+requests
+pytest
+voluptuous
+pytest-voluptuous
+selene==2.0.0b14
+allure-pytest
+packaging
