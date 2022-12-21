@@ -54,14 +54,14 @@ Cборка в [Jenkins](https://jenkins.autotests.cloud/job/APIFinal_test/3/)
 </p>
 
 ## Allure TestOps
-[Allure](https://allure.autotests.cloud/project/1765/dashboards)
+[Allure TestOps](https://allure.autotests.cloud/project/1765/dashboards)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/AllureTestOps.png"/>
 </p>
 
 ## Jira
-[Allure](https://jira.autotests.cloud/browse/HOMEWORK-478)
+[Jira](https://jira.autotests.cloud/browse/HOMEWORK-478)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/Jira.png"/>
