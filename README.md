@@ -1,6 +1,6 @@
 # Проект по тестированнию API [reqres.in](https://reqres.in/)
 <p align="left">
-  <img width="50%" src="img/reqres.png"/>
+  <img width="50%" src="/media/img/reqres.png"/>
 </p>
 
 ## Содержание:
