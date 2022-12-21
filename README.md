@@ -50,7 +50,7 @@ Cборка в [Jenkins](https://jenkins.autotests.cloud/job/APIFinal_test/3/)
 
 ## Отчет в Telegram
 <p align="left">
-  <img width="90%" src="screenshot/AllureTelegram.png"/>
+  <img width="90%" src="/media/screenshot/AllureTelegram.png"/>
 </p>
 
 ## Allure TestOps
