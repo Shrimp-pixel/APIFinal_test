@@ -4,13 +4,13 @@
 </p>
 
 ## Содержание:
-* [Тест-кейсы]()
-* [Использованные технологии]()
-* [Сборка в Jenkins]()
-* [Allure Отчет]()
-* [Отчет в Telegram]()
-* [Allure TestOps]()
-* [Jira]()
+* [Тест-кейсы](https://github.com/Shrimp-pixel/APIFinal_test#%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B)
+* [Использованные технологии](https://github.com/Shrimp-pixel/APIFinal_test#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
+* [Сборка в Jenkins](https://github.com/Shrimp-pixel/APIFinal_test#%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%B2-jenkins)
+* [Allure Отчет](https://github.com/Shrimp-pixel/APIFinal_test#allure-%D0%BE%D1%82%D1%87%D0%B5%D1%82)
+* [Отчет в Telegram]https://github.com/Shrimp-pixel/APIFinal_test#%D0%BE%D1%82%D1%87%D0%B5%D1%82-%D0%B2-telegram()
+* [Allure TestOps](https://github.com/Shrimp-pixel/APIFinal_test#allure-testops)
+* [Jira](https://github.com/Shrimp-pixel/APIFinal_test#jira)
 
 ## Тест-кейсы
 * GET запрос на получения пользователей users
@@ -22,16 +22,16 @@
 
 ## Использованные технологии
 <p align="center">
-  <code><img width="5%" title="Python" src="D:\QApython\shrimp-pixel\icons\python.png"></code>
-  <code><img width="5%" title="Pycharm" src="D:\QApython\shrimp-pixel\icons\pycharm.png"></code>  
-  <code><img width="5%" title="Pytest" src="D:\QApython\shrimp-pixel\icons\pytest.png"></code>
-  <code><img width="5%" title="Allure Report" src="D:\QApython\shrimp-pixel\icons\allure.png"></code>
-  <code><img width="5%" title="Allure TestOps" src="D:\QApython\shrimp-pixel\icons\allure_testops.png"></code>
-  <code><img width="5%" title="Jenkins" src="D:\QApython\shrimp-pixel\icons\jenkins.png"></code>
-  <code><img width="5%" title="Selene" src="D:\QApython\shrimp-pixel\icons\selene.png"></code>
-  <code><img width="5%" title="Requests" src="D:\QApython\shrimp-pixel\icons\requests.png"></code>
-  <code><img width="5%" title="Jira" src="D:\QApython\shrimp-pixel\icons\jira.png"></code>
-  <code><img width="5%" title="Telegram" src="D:\QApython\shrimp-pixel\icons\telegram.png"></code>
+  <img width="5%" title="Python" src="/media/icon/python.png">
+  <img width="5%" title="Pycharm" src="/media/icon/pycharm.png">
+  <img width="5%" title="Pytest" src="/media/icon/pytest.png">
+  <img width="5%" title="Allure Report" src="/media/icon/allure.png">
+  <img width="5%" title="Allure TestOps" src="/media/icon/allure_testops.png">
+  <img width="5%" title="Jenkins" src="/media/icon/jenkins.png">
+  <img width="5%" title="Selene" src="/media/icon/selene.png">
+  <img width="5%" title="Requests" src="/media/icon/requests.png">
+  <img width="5%" title="Jira" src="/media/icon/jira.png">
+  <img width="5%" title="Telegram" src="/media/icon/telegram.png">
 </p>
 
 ## Сборка в Jenkins
