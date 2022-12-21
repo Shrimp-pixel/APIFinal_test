@@ -1,5 +1,5 @@
 # Проект по тестированнию API [reqres.in](https://reqres.in/)
-<p align="left">
+<p align="center">
   <img width="50%" src="/media/img/reqres.png"/>
 </p>
 
