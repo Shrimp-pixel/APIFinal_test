@@ -38,31 +38,31 @@
 Cборка в [Jenkins](https://jenkins.autotests.cloud/job/APIFinal_test/3/)
 
 <p align="left">
-  <img width="90%" src="screenshot/Jenkins.png"/>
+  <img width="90%" src="/media/screenshot/Jenkins.png"/>
 </p>
 
 ## Allure Отчет
 [Allure](https://jenkins.autotests.cloud/job/APIFinal_test/3/allure/)
 
 <p align="left">
-  <img width="90%" src="screenshot/Allure.png"/>
+  <img width="90%" src="/media/screenshot/Allure.png"/>
 </p>
 
 ## Отчет в Telegram
 <p align="left">
-  <img width="90%" src="screenshot/AllureTelegram.png"/>
+  <img width="90%" src="/media/screenshot/AllureTelegram.png"/>
 </p>
 
 ## Allure TestOps
-[Allure](https://allure.autotests.cloud/project/1765/dashboards)
+[Allure TestOps](https://allure.autotests.cloud/project/1765/dashboards)
 
 <p align="left">
-  <img width="90%" src="screenshot/AllureTestOps.png"/>
+  <img width="90%" src="/media/screenshot/AllureTestOps.png"/>
 </p>
 
 ## Jira
-[Allure](https://jira.autotests.cloud/browse/HOMEWORK-478)
+[Jira](https://jira.autotests.cloud/browse/HOMEWORK-478)
 
 <p align="left">
-  <img width="90%" src="screenshot/Jira.png"/>
+  <img width="90%" src="/media/screenshot/Jira.png"/>
 </p>
